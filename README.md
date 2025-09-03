@@ -3,12 +3,14 @@ In the era of data-driven applications, the ability to extract relevant informat
 
 # Feature
 - Scrapes quotes and their authors from the websites
-  
+  ![Alt text](1.png)
 - Extracts tags/keywords related to each quote
 - Save data in structured format (CSV/JSON)
+![Alt text](2.png)
 - Lightweight and easy-to-run
 - IMDB movie info scarpping is also done as a additional feature
+![Alt text](3.png)
 
 
 # Work Pending
-- The quotes also need to give in LLM format and getting error if anf help given for improving it can be appreciated. 
+- The quotes also need to be extracted with LLM format and getting error if any help given for improving it can be appreciated. 
