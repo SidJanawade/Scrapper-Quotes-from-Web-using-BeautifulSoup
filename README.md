@@ -14,3 +14,8 @@ In the era of data-driven applications, the ability to extract relevant informat
 
 # Work Pending
 - The quotes also need to be extracted with LLM format and getting error if any help given for improving it can be appreciated. 
+
+
+# FYI
+- Also created a login page where you haave to enter "USERNAME" and "PASSWORD"
+  
