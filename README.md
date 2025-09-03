@@ -24,3 +24,7 @@ In the era of data-driven applications, the ability to extract relevant informat
 
  ![Alt text](4.png)
 
+# Sites used for Scrapping Quotes
+- https://quotes.toscrape.com/
+- https://www.imdb.com/
+- https://www.brainyquote.com/topics/scrape-quotes
